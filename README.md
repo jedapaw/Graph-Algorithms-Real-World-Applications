@@ -1,6 +1,6 @@
 # 📊 Graph Algorithms for Real-World Applications
 
-* **Student:** Aditya Gaur
+* **Student:** Aditya Singh
 * **Course:** Design and Analysis of Algorithms Lab (ENCA351)
 * **Program:** BCA (AI & Data Science)
 * **Session:** 2025-26
